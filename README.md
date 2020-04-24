@@ -2,7 +2,7 @@ Dies ist der Sourcecode zu Folge 17 "Einfaches Programm mit einer Klasse".
 
 YouTube: https://www.youtube.com/watch?v=0yZs0n4Lwyg
 
-Dieses Video zeigt die erstellung eines einfachen Programmes in Java mit einer Klasse mit drei Instanzvariablen verschiedenen Typs.
+Dieses Video zeigt die Erstellung eines einfachen Programmes in Java mit einer Klasse mit drei Instanzvariablen verschiedenen Typs.
 
 Die Anforderungen sind
 * mehrere Konstruktoren mittels Telescoping Pattern zu erstellen,
